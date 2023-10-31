@@ -1,0 +1,39 @@
+body {
+  font-family: "Catamaran", sans-serif;
+  font-family: "Old Standard TT", serif;
+}
+
+.navbar {
+  background: linear-gradient(to bottom, rgba(255, 255, 255, 0.15) 0%, rgba(0, 0, 0, 0.15) 100%), radial-gradient(at top center, rgba(255, 255, 255, 0.40) 0%, rgba(0, 0, 0, 0.40) 120%) #989898;
+  background-blend-mode: multiply, multiply;
+}
+
+.header {
+  margin-top: 50px;
+  height: 90vh;
+  width: 100%;
+  color: wheat;
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9)), url(https://images.pexels.com/photos/929606/pexels-photo-929606.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-size: cover;
+}
+
+.btn {
+  border-radius: 10rem !important;
+  padding: 1.10rem 2.10rem !important;
+}
+
+.message {
+  background-image: linear-gradient(120deg, #fccb90 0%, #d57eeb 100%);
+}
+
+.myicon {
+  font-size: 60px;
+  padding: 20px;
+}
+
+.msgslider {
+  padding: 0 10px;
+  margin: auto;
+  border: #989898;
+}
+
